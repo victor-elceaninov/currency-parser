@@ -3,4 +3,4 @@ currency parser
 
 main.py - parsing from url
 
-main-json.py - parsing from json file
+main_json.py - parsing from json file
